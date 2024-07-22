@@ -1,5 +1,7 @@
 ### Hi there I'm Kevin Rafael 👋
 
+I have 3 years and 3 months of WEB development using Vue.JS, JavaScript, HTML, PHP, and others
+
 - 🔭 I’m currently working on Ahgora
 - 🌱 I’m currently learning TypeScript and Node
 - 👯 I’m looking to collaborate on frontend projects
