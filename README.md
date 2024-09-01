@@ -2,10 +2,10 @@
 
 I have 3 years and 4 months of work experience in WEB development using Vue.JS, JavaScript, HTML, PHP, and others
 
-- 🔭 I’m currently working on Ahgora
+- 🔭 I’m currently working at Ahgora By TOTVS
 - 🌱 I’m currently learning TypeScript and Node
-- 👯 I’m looking to collaborate on frontend projects
-- ⚡ Fun fact: I'm a good dancer too
+- 👯 I’m looking to collaborate on fullstack projects
+- ⚡ Fun fact: I'm a good dancer
 ##
 <br/>
 <div>
