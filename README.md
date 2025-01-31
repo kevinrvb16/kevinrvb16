@@ -1,6 +1,6 @@
 ### Hi there I'm Kevin Rafael 👋
 
-I have 3 years and 7 months of work experience in WEB development using Vue.JS, JavaScript, HTML, PHP, and others
+I have 3 years and 9 months of work experience in WEB development using Vue.JS, JavaScript, HTML, PHP, and others
 
 - 🔭 I’m currently working at Ahgora By TOTVS
 - 🌱 I’m currently learning TypeScript and Node
