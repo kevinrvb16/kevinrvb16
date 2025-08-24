@@ -1,12 +1,68 @@
-### Hi there I'm Kevin Rafael 👋
+### Hi! I'm Kevin Rafael 👋
 
-I have 4 years of work experience in WEB development using Vue.JS, JavaScript, HTML, PHP, and others
+I'm a software developer with ~4.5 years of web experience, currently at Mercado Libre (Mercado Pago). I enjoy building simple, performant, and well-tested products — with a focus on quality, developer experience, and collaboration.
 
-- 🔭 I’m currently working at Ahgora By TOTVS
-- 🌱 I’m currently learning TypeScript and Node
-- 👯 I’m looking to collaborate on fullstack projects
+---
+
+### What drives me as a developer
+- **Quality and clarity**: clean, readable code and solid practices.
+- **User experience**: performance and accessibility by default.
+- **Continuous learning**: curiosity for new stacks and architecture patterns.
+
+---
+
+### Stack and current interests
+- **Languages**: JavaScript, TypeScript (leveling up), Java, Go (exposure), Python.
+- **Frontend**: React, Vue, HTML/CSS, Material UI, Styled Components, Bootstrap.
+- **Backend**: Node.js, REST, integrations and messaging.
+- **DevX**: testing, logging, metrics, observability, and practical automation.
+
+---
+
+### Web3 goals
+I want to apply my payments/fintech background to build Web3 solutions that are genuinely useful for people and businesses.
+
+- **Payments and on/off-ramps**: simple and safe experiences to receive, convert, and pay with crypto.
+- **Account Abstraction**: reduce UX friction, fees, and complexity for end users.
+- **Decentralized identity (DID)** and reputation for compliance/AML use cases.
+- **Scalable L2 infrastructure**: focus on costs, reliability, and real-time UX.
+- **Security**: design, review, and validate smart contracts responsibly.
+
+---
+
+### What I'm studying / leveling up
+- **Solidity, Ethers.js/Viem** for dApps and integrations.
+- **Hardhat/Foundry** for smart contract development and testing.
+- **Security patterns** (reentrancy, overflows, auth, validations, upgradability).
+- **Hybrid architectures** (on-chain/off-chain), events, and indexing.
+
+---
+
+### Projects that excite me
+- Self-custodial wallets with account abstraction, passkeys, and social recovery.
+- Smart-contract payment links, invoicing, and subscription billing (pull-payments).
+- Cross-border and cross-chain payouts using intents with L2/L3 settlement.
+- On-chain treasury and reconciliation tooling (stablecoin flows, yield routing, risk limits).
+- Developer SDKs and dashboards for observability, risk, and compliance.
+
+### Featured projects
+- Metrics Poker — lightweight metrics tracking demo: https://metricspoker.netlify.app/
+- Twitter Marathons — simple auth/UI exercise: https://twitter-maratonas.netlify.app/login
+- MPC Token — crypto token landing demo: https://mpctoken.netlify.app/
+- Marvel Consumer — React app consuming Marvel API: https://marvelconsumerapi.netlify.app/
+- Pokémon React API — React app consuming Pokémon API: https://api-react-pokemon.netlify.app/
+
+---
+
+### How I can contribute
+- End-to-end feature implementation (frontend + backend).
+- Integrations with providers, APIs, and third-party services.
+- Observability, testing, and quality hardening.
+- Clear documentation and practical examples.
+
+If you have Web3 project ideas or need technical help, let's talk! 🚀
+
 - ⚡ Fun fact: I'm a good dancer
-##
 <br/>
 <div>
   <a href="https://github.com/kevinrvb16">
@@ -14,10 +70,9 @@ I have 4 years of work experience in WEB development using Vue.JS, JavaScript, H
  </div>
  <div>
   <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinrvb16&layout=compact&langs_count=7&theme=merko"/>
-</div>
+ </div>
   
 ## Technologies I use frequently
-
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -34,10 +89,14 @@ I have 4 years of work experience in WEB development using Vue.JS, JavaScript, H
   <img align="center" alt="styled-components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
   <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img align="center" alt="vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-  <img align="center" alt="git" src = "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img align="center" alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div><br/>
+---
 
-    ## Love to be Developer
+### Contact
+- **LinkedIn**: https://www.linkedin.com/in/kevin-rafael
+- **GitHub**: https://github.com/kevinrvb16
+- **Email**: kevinrvb16@gmail.com
 
   <div>
     <a href="https://www.linkedin.com/in/kevin-rafael" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
