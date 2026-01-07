@@ -1,6 +1,6 @@
 ### Hi! I'm Kevin Rafael 👋
 
-I'm a software developer with ~4.5 years of web experience, currently at Mercado Libre (Mercado Pago). I enjoy building simple, performant, and well-tested products — with a focus on quality, developer experience, and collaboration.
+I'm a software developer with ~5 years of work experience, currently at Mercado Libre (Mercado Pago). I enjoy building simple, performant, and well-tested products — with a focus on quality, developer experience, and collaboration.
 
 ---
 
@@ -12,10 +12,10 @@ I'm a software developer with ~4.5 years of web experience, currently at Mercado
 ---
 
 ### Stack and current interests
-- **Languages**: JavaScript, TypeScript (leveling up), Java, Go (exposure), Python.
-- **Frontend**: React, Vue, HTML/CSS, Material UI, Styled Components, Bootstrap.
-- **Backend**: Node.js, REST, integrations and messaging.
-- **DevX**: testing, logging, metrics, observability, and practical automation.
+- **Languages**: JavaScript, TypeScript, Java, Go, Python.
+- **Frontend**: Vue, React, HTML/CSS, Material UI, Styled Components, Bootstrap.
+- **Backend**: Spring, Node.js, REST, integrations and messaging.
+- **DevX**: versioning, testing, logging, metrics, observability, and practical automation.
 
 ---
 
